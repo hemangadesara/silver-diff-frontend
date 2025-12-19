@@ -1,0 +1,9 @@
+body { font-family: Inter, Roboto, Arial, sans-serif; background:#f6f8fa; margin:0; padding:20px;}
+.app { max-width:900px; margin:0 auto; background:white; padding:20px; border-radius:12px; box-shadow:0 6px 18px rgba(20,20,30,0.06);}
+.header { display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;}
+.grid { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
+.card { padding:12px; border-radius:8px; background:#fbfcfd; border:1px solid #eef2f6;}
+.pair { display:flex; justify-content:space-between; align-items:center;}
+.pct { font-weight:700; }
+.small { font-size:0.9rem; color:#6b7280; }
+.footer { margin-top:14px; font-size:0.85rem; color:#6b7280; }
